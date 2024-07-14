@@ -1,4 +1,4 @@
 # ApanaCollageRepo-Demo
 This is my first git repository.
 <br>
-Author Name:Shradha Khapara.
+Author Name:Shradha (Apana College).
